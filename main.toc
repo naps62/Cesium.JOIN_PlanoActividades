@@ -1,0 +1,15 @@
+\select@language {portuguese}
+\contentsline {section}{\numberline {}Actividades}{2}
+\contentsline {subsection}{\numberline {}Calend\IeC {\'a}rio completo}{2}
+\contentsline {subsection}{\numberline {}Join Karting Race}{2}
+\contentsline {subsection}{\numberline {}Gast\IeC {\~a}o Taveira}{2}
+\contentsline {subsection}{\numberline {}Alexandre Magalh\IeC {\~a}es}{3}
+\contentsline {subsection}{\numberline {}Dave Thomas}{3}
+\contentsline {subsection}{\numberline {}Helen Sharp}{4}
+\contentsline {subsection}{\numberline {}Ricardo Silva}{4}
+\contentsline {subsection}{\numberline {}Jogo FutSal}{5}
+\contentsline {subsection}{\numberline {}Jantar de Gala}{5}
+\contentsline {subsection}{\numberline {}Tobias Schreck}{5}
+\contentsline {subsection}{\numberline {}Eduarda Mendes Rodrigues}{6}
+\contentsline {subsection}{\numberline {}Paulo Marques}{6}
+\contentsline {section}{\numberline {}Or\IeC {\c c}amento}{7}
