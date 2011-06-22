@@ -13,3 +13,6 @@
 \contentsline {subsection}{\numberline {}Eduarda Mendes Rodrigues}{6}
 \contentsline {subsection}{\numberline {}Paulo Marques}{6}
 \contentsline {section}{\numberline {}Or\IeC {\c c}amento}{7}
+\contentsline {subsection}{\numberline {}Cr\IeC {\'e}ditos}{7}
+\contentsline {subsection}{\numberline {}D\IeC {\'e}bitos}{7}
+\contentsline {subsection}{\numberline {}Total}{7}

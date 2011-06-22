@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2011.6.21)  21 JUN 2011 21:22
+This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2011.6.21)  22 JUN 2011 01:55
 entering extended mode
  %&-line parsing enabled.
 **main.tex
@@ -243,23 +243,22 @@ driver: pdftex
 
 (1in=72.27pt, 1cm=28.45pt)
 -----------------------
-(./capa.tex <files/cesiumLogoSolido.png, id=1, 356.532pt x 97.3236pt>
-File: files/cesiumLogoSolido.png Graphic file (type png)
-
-<use files/cesiumLogoSolido.png>
-(/usr/share/texmf-texlive/tex/latex/ucs/data/uni-0.def
+(./capa.tex (/usr/share/texmf-texlive/tex/latex/ucs/data/uni-0.def
 File: uni-0.def 2004/10/17 UCS: Unicode data U+0000..U+00FF
 )
 LaTeX Font Info:    Font shape `OT1/phv/bx/n' in size <24.88> not available
-(Font)              Font shape `OT1/phv/b/n' tried instead on input line 9.
- [1
+(Font)              Font shape `OT1/phv/b/n' tried instead on input line 7.
 
-{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} <./files/cesiumLogoSolido.p
-ng>]) (./indice.tex
+<material/cartaz.jpeg, id=1, 305.14pt x 427.5975pt>
+File: material/cartaz.jpeg Graphic file (type jpg)
+ <use material/cartaz.jpeg>
+[1
+
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} <./material/cartaz.jpeg>]) 
+(./indice.tex
 LaTeX Font Info:    Font shape `OT1/phv/bx/n' in size <14.4> not available
 (Font)              Font shape `OT1/phv/b/n' tried instead on input line 1.
-
-(./main.toc
+ (./main.toc
 LaTeX Font Info:    Font shape `OT1/phv/bx/n' in size <10> not available
 (Font)              Font shape `OT1/phv/b/n' tried instead on input line 2.
 LaTeX Font Info:    External font `cmex10' loaded for size
@@ -270,19 +269,23 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 \tf@toc=\write3
 \openout3 = `main.toc'.
 
+
+<files/cesiumLogoSolido.png, id=8, 356.532pt x 97.3236pt>
 File: files/cesiumLogoSolido.png Graphic file (type png)
- <use files/cesiumLogoSolido.png>
+
+<use files/cesiumLogoSolido.png>
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
  Make it at least 40.69623pt.
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[1]) (./content.tex (./join/main.tex) (./join/actividades.tex
+[1 <./files/cesiumLogoSolido.png>]) (./content.tex (./join/main.tex)
+(./join/actividades.tex
 LaTeX Font Info:    Font shape `OT1/phv/bx/n' in size <12> not available
 (Font)              Font shape `OT1/phv/b/n' tried instead on input line 3.
 
-<material/tabela_plano.png, id=13, 945.5325pt x 514.92375pt>
+<material/tabela_plano.png, id=14, 945.5325pt x 514.92375pt>
 File: material/tabela_plano.png Graphic file (type png)
 
 <use material/tabela_plano.png>
@@ -339,20 +342,21 @@ File: files/cesiumLogoSolido.png Graphic file (type png)
 File: files/cesiumLogoSolido.png Graphic file (type png)
  <use files/cesiumLogoSolido.png> [7] (./main.aux) ) 
 Here is how much of TeX's memory you used:
- 3699 strings out of 493848
- 48162 string characters out of 1152823
+ 3710 strings out of 493848
+ 48315 string characters out of 1152823
  207190 words of memory out of 3000000
- 6906 multiletter control sequences out of 15000+50000
- 14904 words of font info for 28 fonts, out of 3000000 for 9000
+ 6912 multiletter control sequences out of 15000+50000
+ 15021 words of font info for 29 fonts, out of 3000000 for 9000
  714 hyphenation exceptions out of 8191
- 29i,16n,43p,2318b,587s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 29i,16n,43p,2318b,581s stack positions out of 5000i,500n,10000p,200000b,50000s
 {/usr/share/texmf-texlive/f
 onts/enc/dvips/base/8r.enc}</usr/share/texmf-texlive/fonts/type1/public/amsfont
-s/cm/cmsy10.pfb></usr/share/texmf-texlive/fonts/type1/urw/helvetic/uhvb8a.pfb><
-/usr/share/texmf-texlive/fonts/type1/urw/helvetic/uhvr8a.pfb>
-Output written on main.pdf (8 pages, 162553 bytes).
+s/cm/cmsy10.pfb></usr/share/texmf-texlive/fonts/type1/public/eurosym/feymr10.pf
+b></usr/share/texmf-texlive/fonts/type1/urw/helvetic/uhvb8a.pfb></usr/share/tex
+mf-texlive/fonts/type1/urw/helvetic/uhvr8a.pfb>
+Output written on main.pdf (8 pages, 212733 bytes).
 PDF statistics:
- 47 PDF objects out of 1000 (max. 8388607)
+ 52 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 11 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 16 words of extra memory for PDF output out of 10000 (max. 10000000)
 
